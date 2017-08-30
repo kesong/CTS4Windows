@@ -7,10 +7,10 @@ Offical CTS could only running on Ubuntu or other Linux Distributions, check the
 The script is written in python, and it's very convenient to be modified.
 
 # Precondition
-python 2.7
-java 1.8
-aapt
-adb
+.python 2.7<br>
+.java 1.8<br>
+.aapt<br>
+.adb<br>
 
 # Usage:
 1. Download Compatibility Test Suite from official website, Unzip package on local PC;
