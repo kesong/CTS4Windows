@@ -7,19 +7,19 @@ Offical CTS could only running on Ubuntu or other Linux Distributions, check the
 The script is written in python, and it's very convenient to be modified.<br>
 
 # Precondition
-python 2.7<br>
-java 1.8<br>
-aapt<br>
-adb<br>
+**python 2.7**<br>
+**java 1.8**<br>
+**aapt**<br>
+**adb**<br>
 
 # Usage:
-1. Download Compatibility Test Suite from official website, Unzip package on local PC;<br>
-'https://source.android.com/compatibility/cts/downloads'<br>
-for example:
-Step1: android-cts-7.0_r11-linux_x86-arm.zip, unzip it to directory( D:\temp\android-cts-7.0_r11-linux_x86-arm);<br>
-Step2: Do not do any change of the directory, doesn't need change name of directory, just keep it as original format;<br>
-Step3: Copy the script into subdirectory named tools, in this exapmle is "D:\temp\android-cts-7.0_r11-linux_x86-arm\android-cts\tools"<br>
-Step4: open windows commmand line console(cmd), change current directory to the dir as step3, input command: <br>
++* Download Compatibility Test Suite from official website, Unzip package on local PC;<br>
+'(https://source.android.com/compatibility/cts/downloads)'<br>
+for example:<br>
++* Step1: android-cts-7.0_r11-linux_x86-arm.zip, unzip it to directory( D:\temp\android-cts-7.0_r11-linux_x86-arm);<br>
++* Step2: Do not do any change of the directory, doesn't need change name of directory, just keep it as original format;<br>
++* Step3: Copy the script into subdirectory named tools, in this exapmle is "D:\temp\android-cts-7.0_r11-linux_x86-arm\android-cts\tools"<br>
++* Step4: open windows commmand line console(cmd), change current directory to the dir as step3, input command: <br>
 python cts-tradefed.py<br>
 
 # Notes:
