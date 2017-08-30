@@ -7,6 +7,7 @@ Offical CTS could only running on Ubuntu or other Linux Distributions, check the
 The script is written in python, and it's very convenient to be modified.<br>
 
 # Precondition
+There are some sofeware need to be installed and environment need configured <br>
 **python 2.7**<br>
 **java 1.8**<br>
 **aapt**<br>
