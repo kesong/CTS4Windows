@@ -24,4 +24,5 @@ for example:<br>
 python cts-tradefed.py<br>
 
 # Notes:
-This script developed via android 7.0 CTS, if you want to do android 6.0 or 8.0 CTS test, this script must modify to fit for other platform.
+This script developed via android 7.0 CTS, if you want to do android 6.0 or 8.0 CTS test, this script must modify to fit for other platform. <br>
+File named 'tradefed.log' will be created in the directory same with the script located, we can check if there is somthing warong when we encounter error during the script running.
